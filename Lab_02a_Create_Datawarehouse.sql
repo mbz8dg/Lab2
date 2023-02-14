@@ -144,5 +144,4 @@ CREATE TABLE `dim_suppliers` (
  
 
 
-    #`fact_order_key` int not null auto_increment;
-    #there is a recording 2/7
+
