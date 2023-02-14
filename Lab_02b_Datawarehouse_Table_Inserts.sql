@@ -102,7 +102,6 @@ SELECT
     `products`.`id`,
     `products`.`product_code`,
     `products`.`product_name`,
-    `products`.`description`,
     `products`.`standard_cost`,
     `products`.`list_price`,
     `products`.`reorder_level`,
